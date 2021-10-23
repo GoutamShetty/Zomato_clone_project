@@ -2,7 +2,7 @@
 
 To run this project follow the following steps:
   1) Install the dependencies run "**npm install**" on the terminal.
-  2) Run the following commands on the terminal
+  2) Run the following commands on the terminal :
           1) **cd seeddb**
           2) **node categoriesdata.js**
           3) **node restaurantsdata.js**
