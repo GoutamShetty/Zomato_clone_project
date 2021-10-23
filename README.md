@@ -9,4 +9,4 @@ To run this project follow the following steps:
           d) node foodsdata.js
       These commands is used to insert the documents inside the collection of the database.
   3) Now move back to the main directory by running "cd .." on the terminal
-  4) To run the project "npm start" on the terminal.
+  4) To run the project run "npm start" on the terminal.
